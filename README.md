@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Live Channel
+
+**Embryo Live Channel** is Embryo-Zero's fork of [Owncast](https://github.com/owncast/owncast), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <p align="center">
   <a href="https://github.com/owncast/owncast" alt="Owncast">
     <img src="https://owncast.online/images/logo.png" alt="Owncast Logo" width="200">
